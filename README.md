@@ -1,7 +1,7 @@
 # Generative-AI-LLM
 Generative AI with LLM, From prompt engineering to Fine-tuning and Domain adaptation
 
-The above objective is achieved with a use case as "News article summarization into 60 words - An replica of (Inshorts)[https://www.inshorts.com/] using Gen AI"
+The above objective is achieved with a use case as "News article summarization into 60 words - An replica of [Inshorts](https://www.inshorts.com/) using Gen AI"
 
 The [Prompt Engineering Part 1](https://github.com/HariniNarasimhan/Generative-AI-LLM/blob/main/LLM-Prompt-Engineering-Part1.ipynb) covers the following
 1. General Dataset loading from huggigface
